@@ -13,7 +13,6 @@
 		F672A57F195A996E0096FAA9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F672A57D195A996E0096FAA9 /* InfoPlist.strings */; };
 		F672A581195A996E0096FAA9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F672A580195A996E0096FAA9 /* main.m */; };
 		F672A585195A996E0096FAA9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F672A584195A996E0096FAA9 /* AppDelegate.m */; };
-		F672A588195A996E0096FAA9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F672A586195A996E0096FAA9 /* Main.storyboard */; };
 		F672A58B195A996E0096FAA9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F672A58A195A996E0096FAA9 /* ViewController.m */; };
 		F672A58D195A996E0096FAA9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F672A58C195A996E0096FAA9 /* Images.xcassets */; };
 		F672A594195A996E0096FAA9 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F672A593195A996E0096FAA9 /* XCTest.framework */; };
@@ -230,7 +229,6 @@
 			files = (
 				F672A58D195A996E0096FAA9 /* Images.xcassets in Resources */,
 				F672A57F195A996E0096FAA9 /* InfoPlist.strings in Resources */,
-				F672A588195A996E0096FAA9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -337,7 +335,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "76AF650D-15C1-4E7E-ABFC-E23B3B84031E";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -371,7 +369,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "76AF650D-15C1-4E7E-ABFC-E23B3B84031E";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
