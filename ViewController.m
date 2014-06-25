@@ -19,6 +19,7 @@
     [super viewDidLoad];
     NSString *unusedString1 = @"abc";
     NSString *unusedString2 = @"abc";
+    NSString *newString;
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
